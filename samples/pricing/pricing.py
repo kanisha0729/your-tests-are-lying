@@ -1,8 +1,4 @@
-"""Sample module: order pricing for a small online store.
-
-This is the code under test. Its test suite looks fine at a glance
-but misses several realistic bugs. That gap is what the agent exposes.
-"""
+"""Sample module: order pricing for a small online store."""
 
 
 def bulk_discount(quantity: int) -> float:

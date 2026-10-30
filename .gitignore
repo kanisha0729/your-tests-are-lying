@@ -1,5 +1,5 @@
-   .streamlit/secrets.toml
-   .env
-   *.env
-   __pycache__/
-   *.pyc
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+cov.json

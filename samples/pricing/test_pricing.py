@@ -1,5 +1,5 @@
-"""Deliberately weak tests: every line passes, and coverage looks high,
-but no test sits on a boundary. Realistic bugs slip straight through."""
+"""Weak on purpose: every function is called and every test passes,
+but no test sits on a boundary."""
 import pytest
 
 from pricing import apply_coupon, bulk_discount, order_total, shipping_fee
