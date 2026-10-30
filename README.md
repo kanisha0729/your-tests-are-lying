@@ -162,8 +162,8 @@ compile, and every test goes through the same verifier.
     </td>
     <td align="center">
       <a href="https://github.com/devamayookha">
-        <img src="https://github.com/devamayookha.png" width="100" alt="Devamayookha"><br>
-        <b>Devamayookha B R</b>
+        <img src="https://github.com/devamayookha.png" width="100" alt="B R Devamayookha"><br>
+        <b>B R Devamayookha</b>
       </a>
     </td>
   </tr>
